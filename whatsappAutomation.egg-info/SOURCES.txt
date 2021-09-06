@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+whatsapp/Chatterbot.py
+whatsapp/__init__.py
+whatsapp/main.py
+whatsapp/test.py
+whatsappAutomation.egg-info/PKG-INFO
+whatsappAutomation.egg-info/SOURCES.txt
+whatsappAutomation.egg-info/dependency_links.txt
+whatsappAutomation.egg-info/top_level.txt
