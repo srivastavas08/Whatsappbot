@@ -1,0 +1,6 @@
+2021/09/04-19:54:55.250 1b44 Reusing MANIFEST C:\Users\KUNALCHANDRA\PycharmProjects\whatsappAutomation\Chrome-Data\Default\Sync Data\LevelDB/MANIFEST-000001
+2021/09/04-19:54:55.253 1b44 Recovering log #22
+2021/09/04-19:54:55.275 1b44 Reusing old log C:\Users\KUNALCHANDRA\PycharmProjects\whatsappAutomation\Chrome-Data\Default\Sync Data\LevelDB/000022.log 
+2021/09/04-19:55:10.197 203c Level-0 table #26: started
+2021/09/04-19:55:10.204 203c Level-0 table #26: 100179 bytes OK
+2021/09/04-19:55:10.206 203c Delete type=0 #22

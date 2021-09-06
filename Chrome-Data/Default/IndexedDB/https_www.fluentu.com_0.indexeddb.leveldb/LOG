@@ -1,0 +1,6 @@
+2021/09/04-19:31:52.676 1668 Creating DB C:\Users\KUNALCHANDRA\PycharmProjects\whatsappAutomation\Chrome-Data\Default\IndexedDB\https_www.fluentu.com_0.indexeddb.leveldb since it was missing.
+2021/09/04-19:31:52.682 1668 Reusing MANIFEST C:\Users\KUNALCHANDRA\PycharmProjects\whatsappAutomation\Chrome-Data\Default\IndexedDB\https_www.fluentu.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/04-19:32:37.867 6bc Level-0 table #5: started
+2021/09/04-19:32:37.870 6bc Level-0 table #5: 5857 bytes OK
+2021/09/04-19:32:37.871 6bc Delete type=0 #3
+2021/09/04-19:32:37.871 6bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

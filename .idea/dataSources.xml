@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db" uuid="52c86c48-ceeb-435f-81a7-da0d4393702f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\KUNALCHANDRA\PycharmProjects\whatsappAutomation\whatsapp\db.sqlite3</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="database" uuid="c2e96b06-e019-4494-9f85-93fedf44b1d3">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\KUNALCHANDRA\PycharmProjects\whatsappAutomation\whatsapp\database.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
