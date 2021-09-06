@@ -1,0 +1,2 @@
+twine upload --config-file=.pypirc dist/*
+twine upload --config-file=.pypirc dist/*

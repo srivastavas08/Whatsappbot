@@ -1,0 +1,10 @@
+dist/*
+Chrome-Data/*
+whatsapp/Chatterbot.py
+whatsapp/database.sqlite3
+whatsapp/database.sqlite3-shm
+whatsapp/database.sqlite3-wal
+whatsapp/db.sqlite3
+whatsapp/pywhatkit_dbs.txt
+whatsappchatbot_kc.egg-info
+.pypirc
